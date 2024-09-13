@@ -1,16 +1,12 @@
-## Hi there 👋
+--> Ola me chamo Marina tenho 15 anos atualmente
+faço 16 anos em 02 de março 
+oq eu gosto de fazer
 
-<!--
-**MarinaPereiraAlbuquerque/MarinaPereiraAlbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🎨Faço Designer grafico
+> 📘estudo na escola josé ephim mindim
+> 👩‍💻estudo Programação de javascript
+> 📱amo tecnologia
+> estou no 1 ano do ensino medio
+> 🔵💚cor preferita azul e verde
+> time torcedor Flamengo
+> https://media1.tenor.com/m/LY1SSPItsl8AAAAC/pedro-pedro-flamengo.gif
