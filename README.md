@@ -9,4 +9,4 @@ oq eu gosto de fazer
 > estou no 1 ano do ensino medio
 > 🔵💚cor preferita azul e verde
 > time torcedor Flamengo
-> https://media1.tenor.com/m/LY1SSPItsl8AAAAC/pedro-pedro-flamengo.gif
+![](https://media1.tenor.com/m/LY1SSPItsl8AAAAC/pedro-pedro-flamengo.gif)
